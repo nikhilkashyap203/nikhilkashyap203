@@ -47,8 +47,8 @@ I'm a passionate **Computer Science student** with a love for building software,
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himma08&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himma08&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilkashyap203&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkashyap203&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
 ---
